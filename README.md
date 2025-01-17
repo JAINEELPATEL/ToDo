@@ -9,9 +9,8 @@ A simple and intuitive To-Do List application to manage your tasks efficiently.
 
 2. **Run the Backend**  
    - Open the `backend` folder in the terminal.  
-   - Install dependencies using:  
      ```bash
-     npm install
+     cd path/Todo/backend
      ```  
    - Start the backend server:  
      ```bash
@@ -20,9 +19,8 @@ A simple and intuitive To-Do List application to manage your tasks efficiently.
 
 3. **Run the Frontend**  
    - Open the `frontend` folder in the terminal.  
-   - Install dependencies using:  
      ```bash
-     npm install
+     cd path/Todo/frontend
      ```  
    - Start the frontend development server:  
      ```bash
