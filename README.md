@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do List App using MERN Stack
 
 A simple and intuitive To-Do List application to manage your tasks efficiently.  
 
